@@ -25,7 +25,6 @@ for index in range(len(food)):
                               value=index,
                               padx=25,
                               font=("Impact", 25),
-                              image=foodImages[index],
                               compound=LEFT,
                               indicatoron=0,
                               width=700,
