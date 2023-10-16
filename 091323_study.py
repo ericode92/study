@@ -16,11 +16,6 @@ def order():
 window = Tk()
 window.title("Let's eat 여보!")
 
-PizzaImage = PhotoImage(file = "D:\Coding study\Python\Beginner Projects\pizza.png")
-KFCImage = PhotoImage(file = "D:\Coding study\Python\Beginner Projects\kfc.png")
-CokeImage = PhotoImage(file = "D:\Coding study\Python\Beginner Projects\cocacola.png")
-foodImages = [PizzaImage, KFCImage, CokeImage]
-
 x = IntVar()
 
 for index in range(len(food)):
