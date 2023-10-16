@@ -25,7 +25,7 @@ for index in range(len(food)):
                               value=index,
                               padx=25,
                               font=("Impact", 25),
-                              compound=LEFT,
+                              compound=LEFT, # 수정했음
                               indicatoron=0,
                               width=700,
                               command=order)
