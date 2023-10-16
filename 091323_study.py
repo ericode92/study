@@ -25,7 +25,7 @@ for index in range(len(food)):
                               value=index,
                               padx=25,
                               font=("Impact", 25),
-                              image=foodImages[index],
+                              image=foodImages[index], #이거 보자
                               compound=LEFT,
                               indicatoron=0,
                               width=700,
