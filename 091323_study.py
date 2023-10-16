@@ -25,8 +25,12 @@ for index in range(len(food)):
                               value=index,
                               padx=25,
                               font=("Impact", 25),
+<<<<<<< HEAD
                               image=foodImages[index], #이거 보자
                               compound=LEFT,
+=======
+                              compound=LEFT, # 수정했음
+>>>>>>> 86705b9a3dc2fc5a730b575b70aa686b91e7d342
                               indicatoron=0,
                               width=700,
                               command=order)
