@@ -42,8 +42,8 @@
 
 # GITHUB - CLONE & Re-upload
 # 1. git clone <github URL> / (once)
-# 2. git add .
-# 2-1. git status (checking)
-# 3. git commit -m "(commit comment)"
-# 4. git pull origin master
+# 2. git pull origin master
+# 3. git add .
+# 3-1. git status (checking)
+# 4. git commit -m "(commit comment)"
 # 5. git push origin master
