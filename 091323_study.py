@@ -25,6 +25,10 @@ for index in range(len(food)):
                               value=index,
                               padx=25,
                               font=("Impact", 25),
+<<<<<<< HEAD
+=======
+                              compound=LEFT, # how will it change?
+>>>>>>> 7d75b6aef187e50c0313dfc368bbbb80c3d72fae
                               indicatoron=0,
                               width=700,
                               command=order)
