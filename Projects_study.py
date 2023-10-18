@@ -39,3 +39,11 @@
 # 3-1. git remote add origin (https://github.com/ericode92/test2.git) // If I made a new repository
 # 3.2. git remote -v // Check if that connected well.
 # 4. git push origin master
+
+# GITHUB - CLONE & Re-upload
+# 1. git clone <github URL> / (once)
+# 2. git add .
+# 2-1. git status (checking)
+# 3. git commit -m "(commit comment)"
+# 4. git pull origin master
+# 5. git push origin master
