@@ -1,7 +1,5 @@
 # https://www.youtube.com/watch?v=6CZB6VTy3Hg&list=PLl316cKxhMxtOWHa88kDqm42uWz1aqGfD&index=1 // Do projects after finish one and understand fully
 
-# https://www.youtube.com/watch?v=0kvNBTcPTok&list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2SWT&index=77 // Do tutorial project one by one = (Start # 77 / GUI scale)
-
 # https://www.youtube.com/watch?v=pdy3nh1tn6I&t=3229s // Do this 20 Projects
 
 # https://www.youtube.com/watch?v=FbuwGWnfz2E&list=PLDHA4931gtc4g57ARUkh5AeeSmfdI8WhF // Flet Library
